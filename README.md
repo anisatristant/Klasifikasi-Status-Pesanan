@@ -63,5 +63,5 @@ Berdasarkan analisis model, dua faktor utama yang paling memicu kegagalan transa
 ---
 
 ## 👤 Penulis
-**[https://www.linkedin.com/in/annisatristanti/]**  
-*Data Science Enthusiast | [Tautan LinkedIn Kamu]*
+**[Annisa Tristanti]**  
+*Data Science Enthusiast | [https://www.linkedin.com/in/annisatristanti/]*
